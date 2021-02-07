@@ -11,3 +11,7 @@ voice note
 status  
 
 hiding the last seen
+
+payment  option 
+
+we can transfr the money into raser pay, phone pay, debit cards,credit cards, payzap, google pay ans so on...
