@@ -9,3 +9,5 @@ send a message
 voice note 
 
 status  
+
+hiding the last seen
